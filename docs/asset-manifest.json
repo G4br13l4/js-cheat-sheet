@@ -3,7 +3,7 @@
     "main.css": "/static/css/main.37cd4089.css",
     "main.js": "/static/js/main.8457d4ee.js",
     "static/js/787.b219ea25.chunk.js": "/static/js/787.b219ea25.chunk.js",
-    "static/media/chap02-func.png": "/static/media/chap02-func.f5af2923ccd5b6c343a6.png",
+    "static/media/chap02-func.png": "./static/media/chap02-func.f5af2923ccd5b6c343a6.png",
     "index.html": "/index.html",
     "main.37cd4089.css.map": "/static/css/main.37cd4089.css.map",
     "main.8457d4ee.js.map": "/static/js/main.8457d4ee.js.map",
