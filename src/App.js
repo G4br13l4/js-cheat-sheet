@@ -183,7 +183,7 @@ function App() {
                 In function declaration, the association between the identifier and function value happens during the compile phase of the code, before the code is executed. In contrast, a function expression is not associated with its identifier until that statement during runtime.</p>
                 <p>JS functions are a special type of the object value type. Not all languages treat functions as values, but it's essential for a language to support the functional programming pattern, as JS does.</p>
                 <p>You can only return a single value, but if you have more values to return, you can wrap them up into a single object/array. Since functions are values, they can be assigned as properties on objects:</p>
-                <img src="/assets/chap02-func.png" width={250} />
+                <img src="./assets/chap02-func.png" width={250} />
                 </>
               }
             />
